@@ -1,4 +1,4 @@
-# ![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png) &lceil; *`Welcome to my profile!`* &rfloor;![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png)
+# ![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png) &lceil; *Welcome to my profile!* &rfloor;![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png)
 
 ### *My pronouns Are ~*
 ✨`They/She` - `Fae/Fuck`✨
@@ -12,7 +12,7 @@
 - Woops my anarchy symbol!
 - ~~*Updated Localization files*~~
 ------------
-# ![](https://cdn.discordapp.com/emojis/814932281658703892.png?v=1) `Eternabyte` ![](https://cdn.discordapp.com/emojis/814932689429856256.png?v=1)
+# ![](https://cdn.discordapp.com/emojis/814932281658703892.png?v=1) Eternabyte ![](https://cdn.discordapp.com/emojis/814932689429856256.png?v=1)
 [website]: https://eternabyte.dev
 [twitter]: https://twitter.com/EternabyteDev
 [youtube]: https://www.youtube.com/channel/UCEC_Zc9HNC2ly-AG1vpkhng
