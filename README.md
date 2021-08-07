@@ -20,7 +20,7 @@
 [discord]: https://discord.gg/pvSEcbCbn9
 [tumblr]: https://eternabyte.tumblr.com
 
-![]()
+
 ### Bringing games one byte at a time, for an eternity! - Luc 2021
 ##### Eternabyte is a small team of friends across the world who create games together!
 [<img align="left" alt="Eternabyte Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] 
