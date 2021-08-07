@@ -20,14 +20,14 @@
 [discord]: https://discord.gg/pvSEcbCbn9
 [tumblr]: https://eternabyte.tumblr.com
 
+![]()
+### Bringing games one byte at a time, for an eternity! - Luc 2021
+##### Eternabyte is a small team of friends across the world who create games together!
 [<img align="left" alt="Eternabyte Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] 
 [<img align="left" alt="Eternabyte Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr] 
 [<img align="left" alt="Eternabyte YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Eternabyte Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Eternabyte.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-![]()
-### Bringing games one byte at a time, for an eternity! - Luc 2021
-##### Eternabyte is a small team of friends across the world who create games together!
 ##### ![]()
 ### Currently our projects are:
 [OSAM]: https://github.com/Eternabyte/Modshot-Aftermath
