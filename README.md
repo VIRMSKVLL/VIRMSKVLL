@@ -12,7 +12,7 @@
 - Woops my anarchy symbol!
 - ~~*Updated Localization files*~~
 #
-## ![](https://cdn.discordapp.com/emojis/814932281658703892.png?v=1) Eternabyte ![](https://cdn.discordapp.com/emojis/814932689429856256.png?v=1)
+### ![](https://cdn.discordapp.com/emojis/814932281658703892.png?v=1) Eternabyte ![](https://cdn.discordapp.com/emojis/814932689429856256.png?v=1)
 #
 [website]: https://eternabyte.dev
 [twitter]: https://twitter.com/EternabyteDev
