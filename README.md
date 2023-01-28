@@ -1,17 +1,11 @@
-# ![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png) &lceil; *Welcome to my profile!* &rfloor;![](https://cdn.discordapp.com/attachments/873410298348990494/873410483066126436/emot2.png)
+ミ★ 𝘈𝘨𝘦𝘯𝘥𝘦𝘳 𝘍𝘰𝘹 & 𝘗𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯 𝘋𝘪𝘴𝘢𝘴𝘵𝘦𝘳 ★彡
+ミ★ 𝘈𝘨𝘦𝘯𝘥𝘦𝘳 𝘍𝘰𝘹 & 𝘗𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯 𝘋𝘪𝘴𝘢𝘴𝘵𝘦𝘳 ★彡
+Programmer recovering from a GL0WST¡CK H^NG0V3R
+———————————————————————————
+![](https://cdn.discordapp.com/attachments/873410298348990494/1069036896665215066/Y3doe4S.gif)  /̲/̲  𝐼𝒩 𝐿♢𝒱𝐸 𝒲𝐼𝒯𝐻 𝒯𝐻𝐸 𝒲♢𝑅𝐿𝒟↝
+⌁ 𝘰𝘩 𝘢𝘯𝘥 𝘢 𝘣𝘪𝘳𝘥, 𝘧𝘰𝘹 & 𝘳𝘰𝘣𝘰𝘵 :𝘗  \♥️ 
 
-### *My pronouns Are ~*
-✨`They/She` - `Fae/Fuck`✨
 
-#### *What I do*
-- I Fuck around with Code and make Games!
-- Something I don't fucking know?
-- Why are you reading a Github profile nerd?
-- I tinker in Ruby I suppose!
-- Write too many characters I never use
-- Woops my anarchy symbol!
-- ~~*Updated Localization files*~~
-#
 ### ![](https://cdn.discordapp.com/emojis/814932281658703892.png?v=1) Eternabyte ![](https://cdn.discordapp.com/emojis/814932689429856256.png?v=1)
 #
 [website]: https://eternabyte.dev
@@ -35,8 +29,3 @@
 [<img align="left" alt="OSAM" width="22px" src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1601980/4ba76829f030602dae4d571f635a96b9f9984393.jpg" /> | Aftermath][OSAM] ![]()
 
 [<img align="left" alt="CLOVERLINK" width="22px" src="https://cdn.discordapp.com/attachments/873410298348990494/873467403244277770/icon.png" />| Cloverlink][CLOVERLINK] ![]()
-
-<!--
-
-# ![](https://cdn.discordapp.com/attachments/873410298348990494/873457941360046100/Sprite-0001111.png) &lceil; `I can't fucking do this anymore :D!` &rfloor;
--->
